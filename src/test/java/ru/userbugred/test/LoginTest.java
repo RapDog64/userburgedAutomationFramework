@@ -7,7 +7,11 @@ import org.testng.annotations.Test;
 import ru.userbugred.model.User;
 import ru.userbugred.page.MainPage;
 import ru.userbugred.service.UserManager;
-import ru.yandex.qatools.allure.annotations.*;
+import ru.yandex.qatools.allure.annotations.Features;
+import ru.yandex.qatools.allure.annotations.Severity;
+import ru.yandex.qatools.allure.annotations.Stories;
+import ru.yandex.qatools.allure.annotations.TestCaseId;
+import ru.yandex.qatools.allure.annotations.Title;
 import ru.yandex.qatools.allure.model.SeverityLevel;
 
 public class LoginTest extends AbstractTest {
