@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Smoke tests" thread-count="2" parallel="classes" verbose="1">
+<suite name="Smoke tests" thread-count="2" parallel="tests" verbose="1">
 
     <listeners>
         <listener class-name="ru.userbugred.config.listener.AllureListener"/>
     </listeners>
 
-    <test name="Log in tests">
+    <test name="Log in tests via Firefox via Chrome" >
+        <parameter name="browser" value="chrome"/>
         <classes>
             <class name="ru.userbugred.test.LoginTest"/>
-            <class name="ru.userbugred.test.LogoutTest"/>
+        </classes>
+    </test>
+
+    <test name="Log in tests via Firefox">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="ru.userbugred.test.LoginTest"/>
         </classes>
     </test>
 </suite>

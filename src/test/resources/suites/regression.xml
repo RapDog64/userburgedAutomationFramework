@@ -6,7 +6,17 @@
         <listener class-name="ru.userbugred.config.listener.AllureListener"/>
     </listeners>
 
-    <test name="Regression tests">
+    <test name="Regression tests on Chrome">
+        <parameter name="browser" value="chrome"/>
+
+        <packages>
+            <package name="ru.userbugred.test"/>
+        </packages>
+    </test>
+
+    <test name="Regression tests on Firefox">
+        <parameter name="browser" value="firefox"/>
+
         <packages>
             <package name="ru.userbugred.test"/>
         </packages>

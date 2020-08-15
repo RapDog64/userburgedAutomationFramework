@@ -12,10 +12,10 @@ public class BrowserFactory {
     private BrowserFactory() {
     }
 
-    private synchronized static void initDriver() {
-        if (BrowserReader.getBrowser().equalsIgnoreCase("chrome")) {
+    public synchronized static void initDriver(String browser) {
+        if (browser.equalsIgnoreCase("chrome")) {
             DRIVER.set(new LocalChromeDriverManager().create());
-        } else if (BrowserReader.getBrowser().equalsIgnoreCase("firefox")) {
+        } else if (browser.equalsIgnoreCase("firefox")) {
             DRIVER.set(new LocalFireFoxDriverManager().create());
         }
 
@@ -25,9 +25,6 @@ public class BrowserFactory {
     }
 
     public synchronized static WebDriver getDriver() {
-        if (DRIVER.get() == null) {
-            initDriver();
-        }
         return DRIVER.get();
     }
 
