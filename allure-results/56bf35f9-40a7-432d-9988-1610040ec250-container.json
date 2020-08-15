@@ -1,0 +1,13 @@
+{
+  "uuid": "56bf35f9-40a7-432d-9988-1610040ec250",
+  "name": "Log in tests",
+  "children": [
+    "2f40f7db-8cf6-43d4-ba8d-b66c23c507d0",
+    "c3d69209-0f94-47e4-b2b2-6cbe397b17d9"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1597348957483,
+  "stop": 1597348970864
+}

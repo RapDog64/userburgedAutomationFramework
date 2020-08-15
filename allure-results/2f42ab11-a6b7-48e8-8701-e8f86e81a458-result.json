@@ -1,0 +1,61 @@
+{
+  "name": "logout",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1597440848262,
+  "stop": 1597440849090,
+  "uuid": "2f42ab11-a6b7-48e8-8701-e8f86e81a458",
+  "historyId": "2f87ce4cbde32623e266e21bd6c2d3c6",
+  "fullName": "ru.userbugred.test.LogoutTest.logout",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.userbugred.test.LogoutTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.userbugred.test.LogoutTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "logout"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Smoke tests"
+    },
+    {
+      "name": "suite",
+      "value": "Log in tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "ru.userbugred.test.LogoutTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-4QKS2NB"
+    },
+    {
+      "name": "thread",
+      "value": "3604@DESKTOP-4QKS2NB.TestNG-test=Log in tests-2(16)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": []
+}

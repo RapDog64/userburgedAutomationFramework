@@ -1,0 +1,36 @@
+{
+  "uuid": "eaf8ada7-c70a-4c3f-ab2d-94d0525bf7ba",
+  "name": "Log in suite",
+  "children": [
+    "b44c02ca-065d-47f3-b13d-b5f8163df3b9"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597344852907,
+      "stop": 1597344859879
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "broken",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597344870674,
+      "stop": 1597344870674
+    }
+  ],
+  "links": [],
+  "start": 1597344852873,
+  "stop": 1597344870727
+}

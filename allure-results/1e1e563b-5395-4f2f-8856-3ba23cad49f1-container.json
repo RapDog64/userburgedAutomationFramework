@@ -1,0 +1,12 @@
+{
+  "uuid": "1e1e563b-5395-4f2f-8856-3ba23cad49f1",
+  "name": "Log out tests",
+  "children": [
+    "42fa8cbc-bf28-408a-8307-d147280a7568"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1597348322155,
+  "stop": 1597348325353
+}

@@ -1,0 +1,25 @@
+{
+  "uuid": "4ca74cc6-913f-413b-8085-81166a349268",
+  "name": "ru.userbugred.test.LoginTest.logout",
+  "children": [
+    "d06f1b3a-e450-45c3-a022-4a5dd85a7059"
+  ],
+  "description": "",
+  "befores": [],
+  "afters": [
+    {
+      "name": "logout",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597436825337,
+      "stop": 1597436826269
+    }
+  ],
+  "links": [],
+  "start": 1597436825337,
+  "stop": 1597436826270
+}

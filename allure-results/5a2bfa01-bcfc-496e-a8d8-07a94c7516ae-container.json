@@ -1,0 +1,36 @@
+{
+  "uuid": "5a2bfa01-bcfc-496e-a8d8-07a94c7516ae",
+  "name": "ru.userbugred.test.LoginTest",
+  "children": [
+    "ef584f88-cb09-4b17-8404-af88b060b1cf"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597350784597,
+      "stop": 1597350789371
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597350801530,
+      "stop": 1597350802206
+    }
+  ],
+  "links": [],
+  "start": 1597350784537,
+  "stop": 1597350802520
+}

@@ -1,0 +1,61 @@
+{
+  "name": "loginWithCorrectCredential",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1597343559775,
+  "stop": 1597343562859,
+  "uuid": "1e0d0689-23bc-4293-a385-3b90d4e0c44e",
+  "historyId": "d81c04a49ee4edaea5c0175b2e20ad65",
+  "fullName": "ru.userbugred.test.LoginTest.loginWithCorrectCredential",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.userbugred.test.LoginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.userbugred.test.LoginTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "loginWithCorrectCredential"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Smoke"
+    },
+    {
+      "name": "suite",
+      "value": "First Suite test"
+    },
+    {
+      "name": "subSuite",
+      "value": "ru.userbugred.test.LoginTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-4QKS2NB"
+    },
+    {
+      "name": "thread",
+      "value": "2308@DESKTOP-4QKS2NB.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": []
+}

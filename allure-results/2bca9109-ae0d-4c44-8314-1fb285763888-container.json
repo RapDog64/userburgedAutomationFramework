@@ -1,0 +1,12 @@
+{
+  "uuid": "2bca9109-ae0d-4c44-8314-1fb285763888",
+  "name": "Second Suite test",
+  "children": [
+    "dd67eedd-d4ec-4e93-b94c-2ac680ddbce7"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1597343890303,
+  "stop": 1597343893171
+}

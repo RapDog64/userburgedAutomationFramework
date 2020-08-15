@@ -1,0 +1,37 @@
+{
+  "uuid": "6f0d01f9-bdd2-4730-98dc-7d62312a5b48",
+  "name": "Smoke",
+  "children": [
+    "9d9c6dcc-4451-41aa-87eb-f5298a2354fb",
+    "2bca9109-ae0d-4c44-8314-1fb285763888"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597343885936,
+      "stop": 1597343885958
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597343893216,
+      "stop": 1597343893873
+    }
+  ],
+  "links": [],
+  "start": 1597343885908,
+  "stop": 1597343893873
+}

@@ -1,0 +1,61 @@
+{
+  "name": "logout",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1597348324434,
+  "stop": 1597348325310,
+  "uuid": "42fa8cbc-bf28-408a-8307-d147280a7568",
+  "historyId": "2f87ce4cbde32623e266e21bd6c2d3c6",
+  "fullName": "ru.userbugred.test.LogoutTest.logout",
+  "labels": [
+    {
+      "name": "package",
+      "value": "ru.userbugred.test.LogoutTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.userbugred.test.LogoutTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "logout"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Log out suite"
+    },
+    {
+      "name": "suite",
+      "value": "Log out tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "ru.userbugred.test.LogoutTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-4QKS2NB"
+    },
+    {
+      "name": "thread",
+      "value": "12832@DESKTOP-4QKS2NB.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": []
+}

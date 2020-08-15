@@ -1,0 +1,25 @@
+{
+  "uuid": "f6ad374e-e135-45da-9e68-255670df8423",
+  "name": "ru.userbugred.test.LoginTest.dasdasd",
+  "children": [
+    "ce8e4b1b-c391-4928-9d16-d8ca327023eb"
+  ],
+  "description": "",
+  "befores": [
+    {
+      "name": "dasdasd",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597337213201,
+      "stop": 1597337213201
+    }
+  ],
+  "afters": [],
+  "links": [],
+  "start": 1597337213201,
+  "stop": 1597337213202
+}

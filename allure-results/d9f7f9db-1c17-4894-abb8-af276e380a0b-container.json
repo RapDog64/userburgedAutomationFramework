@@ -1,0 +1,36 @@
+{
+  "uuid": "d9f7f9db-1c17-4894-abb8-af276e380a0b",
+  "name": "Regression suite",
+  "children": [
+    "068ea385-574a-400f-911b-e62314f43d96"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597440387110,
+      "stop": 1597440394012
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597440401840,
+      "stop": 1597440402805
+    }
+  ],
+  "links": [],
+  "start": 1597440387080,
+  "stop": 1597440402805
+}

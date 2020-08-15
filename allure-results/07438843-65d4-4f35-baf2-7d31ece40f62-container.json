@@ -1,0 +1,37 @@
+{
+  "uuid": "07438843-65d4-4f35-baf2-7d31ece40f62",
+  "name": "Smoke tests",
+  "children": [
+    "a4333876-6f5b-477d-bbf2-c05bdc499dd8",
+    "e188643a-23d0-40ef-95b1-db39ceac5a49"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597348379138,
+      "stop": 1597348387480
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "broken",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597348414992,
+      "stop": 1597348414992
+    }
+  ],
+  "links": [],
+  "start": 1597348379111,
+  "stop": 1597348415033
+}

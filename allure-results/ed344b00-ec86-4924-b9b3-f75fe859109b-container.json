@@ -1,0 +1,12 @@
+{
+  "uuid": "ed344b00-ec86-4924-b9b3-f75fe859109b",
+  "name": "ru.userbugred.test.LoginTest",
+  "children": [
+    "bc90217c-9c14-4ce1-92f3-a8e508f4c6bd"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1597350484998,
+  "stop": 1597350501414
+}

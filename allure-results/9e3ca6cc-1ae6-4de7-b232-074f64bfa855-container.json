@@ -1,0 +1,12 @@
+{
+  "uuid": "9e3ca6cc-1ae6-4de7-b232-074f64bfa855",
+  "name": "Regression suite",
+  "children": [
+    "347b263b-851f-43f0-9a3c-c530e7231b78"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1597440738275,
+  "stop": 1597440761378
+}

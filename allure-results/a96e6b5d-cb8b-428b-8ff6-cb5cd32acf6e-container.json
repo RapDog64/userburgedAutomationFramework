@@ -1,0 +1,12 @@
+{
+  "uuid": "a96e6b5d-cb8b-428b-8ff6-cb5cd32acf6e",
+  "name": "Smoke",
+  "children": [
+    "6b7c217d-aec9-4715-913f-0886a350bc95"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1597334923539,
+  "stop": 1597334934928
+}

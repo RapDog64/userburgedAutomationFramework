@@ -1,0 +1,12 @@
+{
+  "uuid": "aed562f8-1007-4444-ad5b-bd25f727c615",
+  "name": "Smoke tests",
+  "children": [
+    "2ae2076b-9f6b-4a33-894b-685083c17936"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1597435104697,
+  "stop": 1597435139789
+}

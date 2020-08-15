@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression suite" verbose="1">
+
+    <listeners>
+        <listener class-name="ru.userbugred.config.listener.AllureListener"/>
+    </listeners>
+
+    <test name="Regression tests">
+        <packages>
+            <package name="ru.userbugred.test"/>
+        </packages>
+    </test>
+</suite>

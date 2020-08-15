@@ -1,0 +1,36 @@
+{
+  "uuid": "2dc562b2-77c1-449d-b854-fe0fbd0e8ed3",
+  "name": "Log out suite",
+  "children": [
+    "6f74c899-0785-44ef-a835-d39fa8422fd2"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597347629902,
+      "stop": 1597347629902
+    }
+  ],
+  "afters": [
+    {
+      "name": "tearDown",
+      "status": "broken",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1597347629992,
+      "stop": 1597347629993
+    }
+  ],
+  "links": [],
+  "start": 1597347629901,
+  "stop": 1597347630030
+}

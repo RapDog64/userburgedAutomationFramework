@@ -1,0 +1,13 @@
+{
+  "uuid": "c6f2e87e-e1ef-4896-bfa2-b2f33efa6282",
+  "name": "First Suite test",
+  "children": [
+    "d8fcef3d-6124-477e-8d56-12fcf3961b6b",
+    "dc411012-75be-4212-bb60-255c01b26406"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1597341274501,
+  "stop": 1597341288780
+}
