@@ -8,7 +8,7 @@ public class LoginService {
     private MainPage mainPage = new MainPage();
 
     public void loginWithCorrectCredentials() {
-        User user = UserManager.withFullCredentials();
+        User user = UserManager.prepareUser();
 
         mainPage.navigateTo("http://users.bugred.ru/")
                 .clickEnterBtn()

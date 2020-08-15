@@ -14,4 +14,8 @@ public class UserManager {
                 DataEnvironmentManager.getTestData(EMAIL),
                 DataEnvironmentManager.getTestData(PASSWORD));
     }
+
+    public static User prepareUser() {
+        return new User("dasha23232", "dasha@mail.com","456");
+    }
 }
