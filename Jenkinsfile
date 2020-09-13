@@ -16,7 +16,7 @@ pipeline {
 
     stages  {
         stage('Test') {
-            step {
+            steps {
                 sh "mvn clean test " +
                  "-Dsurefire.suiteXmlFiles=src/test/resources/suites/${params.suite}.xml" +
                  "-Denvironment=${params.environment}" +
