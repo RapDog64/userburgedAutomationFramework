@@ -4,7 +4,7 @@ pipeline {
 
     tools {
         maven 'apache-maven-3.6.3'
-        jdk 'jdk1.8.0_171'
+        jdk 'java 1.8'
 
     }
 
